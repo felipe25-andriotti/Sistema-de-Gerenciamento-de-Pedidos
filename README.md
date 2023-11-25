@@ -5,7 +5,8 @@
 
 ![PNG](Parte%20Lógica.png)
 
+## Tabela
 ![PNG](1.png)
 
 Script SQL:
-[SQL](Parte%201%20SQL.sql)
+[SQL](Main.sql)
