@@ -3,7 +3,7 @@
 
 ## Parte Lógica
 
-![PNG](Parte%20Lógica.png.png)
+![PNG](Parte%20Lógica.png)
 
 Script SQL:
 [SQL](Parte%201%20SQL.sql)
